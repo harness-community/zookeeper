@@ -1,3 +1,7 @@
+Build & Test Apache ZooKeeper on Harness CI
+=======================================
+This is a fork of Apache ZooKeeper project. This repo can be used to demo the new capabilities of Harness CI. Please follow [these instructions](https://github.com/harness-community/zookeeper/blob/main/.harness/README.md) on how to clone this repo and see the results yourself.
+
 # Apache ZooKeeper [![GitHub Actions CI][ciBadge]][ciLink] [![Travis CI][trBadge]][trLink] [![Maven Central][mcBadge]][mcLink] [![License][liBadge]][liLink]
 
 <p align="left">
